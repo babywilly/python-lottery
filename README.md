@@ -69,4 +69,4 @@ elif len(number)==0 :
 else :
     print("輸入錯誤，請重新輸入")
 ```
-![](https://github.com/babywilly/python-lottery/raw/main/lottery.jpg) 
+![](https://github.com/babywilly/python-lottery/raw/main/lottery2.jpg) 
