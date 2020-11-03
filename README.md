@@ -70,4 +70,3 @@ else :
     print("輸入錯誤，請重新輸入")
 ```
 ![](https://github.com/babywilly/python-lottery/raw/main/lottery2.jpg)
-11111111111111112222222222222222222222222222
