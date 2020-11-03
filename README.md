@@ -29,7 +29,7 @@ elif len(number)==0 :
 else :
     print("輸入錯誤，請重新輸入")
 ```
-![](https://github.com/babywilly/python-lottery/raw/main/lottery1.jpg) 
+![](https://github.com/babywilly/python-lottery/raw/main/lottery1.jpg)
 <br>另一種是電腦出號碼－手動輸入對獎號碼<br>
 ```
 #      今彩539
@@ -69,4 +69,5 @@ elif len(number)==0 :
 else :
     print("輸入錯誤，請重新輸入")
 ```
-![](https://github.com/babywilly/python-lottery/raw/main/lottery2.jpg) 
+![](https://github.com/babywilly/python-lottery/raw/main/lottery2.jpg)
+1111111111111111
